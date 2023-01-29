@@ -2827,8 +2827,11 @@
   .bx-paperclip:before {
     content: "\ebaa";
   }
-  .bx-paper-plane:before {
+  .bxl-paper-plane:before {
     content: "\ef61";
+  }
+  .bxl-leetcode:before {
+    content: "\ef62";
   }
   .bx-paragraph:before {
     content: "\ebac";
@@ -5422,4 +5425,3 @@
   .bxs-zoom-out:before {
     content: "\ef0b";
   }
-  
